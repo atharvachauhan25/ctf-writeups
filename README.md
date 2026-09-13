@@ -38,6 +38,3 @@ ctf-writeups/
 
 ## Tools commonly used
 Nmap, Gobuster, Metasploit, Searchsploit, Burp Suite, Wireshark, CyberChef 
-
-## Certification roadmap
-CCNA → eJPT → Security+ → PNPT → OSCP
