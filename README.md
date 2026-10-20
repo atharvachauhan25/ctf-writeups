@@ -9,9 +9,10 @@ Each entry follows a consistent format:
 ```
 ctf-writeups/
 ├── vulnhub/
-│   └── kioptrix_level_1.md    # Kioptrix Level-1
+│   └── kioptrix_level_/             # Kioptrix Level-1
 ├── tryhackme/
 │   └── hidden_deep_into_my_heart/   # Hidden Deep Into my Heart
+│   └── bounty_hacker/               # Bounty Hacker
 ├── hackthebox/
 ├── cylabacademy/
 ├── writeup-template.md        # template used for every writeup
@@ -23,12 +24,14 @@ ctf-writeups/
 ### VulnHub
 | Machine | Category | Difficulty | Writeup |
 |---------|----------|------------|---------|
-| Kioptrix Level-1 | Boot2Root | Easy | [Link](./vulnhub/kioptrix_level_1.md) |
+| Kioptrix Level-1 | Boot2Root | Easy | [Link](./vulnhub/kioptrix_level_1) |
 
 ### TryHackMe
 | Room | Category | Difficulty | Writeup |
 |------|----------|------------|---------|
 | Hidden Deep Into my Heart | Web Exploitation | Easy | [Link](./tryhackme/hidden_deep_into_my_heart) |
+| Bounty Hacker | Linux | Easy | [Link](./tryhackme/bounty_hacker) |
+
 
 ### HackTheBox
 | Machine | Category | Difficulty | Writeup |
