@@ -13,6 +13,7 @@ ctf-writeups/
 ├── tryhackme/
 │   └── hidden_deep_into_my_heart/   # Hidden Deep Into my Heart
 │   └── bounty_hacker/               # Bounty Hacker
+│   └── agent_t/                     # Agent T
 ├── hackthebox/
 ├── cylabacademy/
 ├── writeup-template.md        # template used for every writeup
@@ -31,6 +32,7 @@ ctf-writeups/
 |------|----------|------------|---------|
 | Hidden Deep Into my Heart | Web Exploitation | Easy | [Link](./tryhackme/hidden_deep_into_my_heart) |
 | Bounty Hacker | Linux | Easy | [Link](./tryhackme/bounty_hacker) |
+| Agent T | Web | Very Easy | [Link](./tryhackme/agent_t) |
 
 
 ### HackTheBox
